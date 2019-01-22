@@ -5,7 +5,7 @@
 @viewport { width: device-width; scale: 1; }
 
 html {
-  font-family: 'Open Sans',400 400i 700 sans-serif;
+  font-family: "Open Sans", sans-serif;
   box-sizing: border-box;
   -moz-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
@@ -17,19 +17,7 @@ html {
   box-sizing: inherit;
 }
 
-body {
-  margin: 0;
-}
-
 .img-flex {
   display: block;
   width: 100%;
-}
-
-figure {
-  margin: 0;
-}
-
-figcaption {
-  padding: .5em;
 }
